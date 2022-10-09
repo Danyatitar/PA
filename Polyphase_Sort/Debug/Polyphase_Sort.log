@@ -1,0 +1,22 @@
+﻿  Polyphase_Sort.cpp
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(212,7): warning C4101: 'temp': unreferenced local variable
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(238,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(279,6): warning C4101: 'temp': unreferenced local variable
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(313,36): warning C4244: 'argument': conversion from 'std::streamoff' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(329,38): warning C4244: 'argument': conversion from 'std::streamoff' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_merge.h(341,38): warning C4244: 'argument': conversion from 'std::streamoff' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_Sort.cpp(94,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Danylo\source\repos\Polyphase_Sort\Polyphase_Sort\Polyphase_Sort.cpp(95,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Polyphase_Sort.vcxproj -> C:\Users\Danylo\source\repos\Polyphase_Sort\Debug\Polyphase_Sort.exe
