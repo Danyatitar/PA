@@ -1,0 +1,8 @@
+﻿  8Puzzle.cpp
+C:\Users\Danylo\source\repos\8Puzzle\8Puzzle\8Puzzle.cpp(47,87): warning C4244: '=': conversion from '_Rep' to 'size_t', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Danylo\source\repos\8Puzzle\8Puzzle\8Puzzle.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+  8Puzzle.vcxproj -> C:\Users\Danylo\source\repos\8Puzzle\Debug\8Puzzle.exe
